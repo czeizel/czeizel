@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**czeizel/czeizel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi there! 
+**Chief Executive Officer at YourSitee**
 
-Here are some ideas to get you started:
+I am leading the product and development—as well as overseeing marketing and community management at [YourSitee](https://yoursitee.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙌 Contact me!
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/andrisczeizel) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/andras-czeizel/) &nbsp;
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/andrisczeizel) &nbsp; 
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/926184412662599710)
+</div>
